@@ -1,0 +1,11 @@
+C:\Users\dbake\source\repos\CitationParser\CitationParser\bin\Debug\netcoreapp2.0\CitationParser.deps.json
+C:\Users\dbake\source\repos\CitationParser\CitationParser\bin\Debug\netcoreapp2.0\CitationParser.runtimeconfig.json
+C:\Users\dbake\source\repos\CitationParser\CitationParser\bin\Debug\netcoreapp2.0\CitationParser.runtimeconfig.dev.json
+C:\Users\dbake\source\repos\CitationParser\CitationParser\bin\Debug\netcoreapp2.0\CitationParser.dll
+C:\Users\dbake\source\repos\CitationParser\CitationParser\bin\Debug\netcoreapp2.0\CitationParser.pdb
+C:\Users\dbake\source\repos\CitationParser\CitationParser\obj\Debug\netcoreapp2.0\CitationParser.csprojAssemblyReference.cache
+C:\Users\dbake\source\repos\CitationParser\CitationParser\obj\Debug\netcoreapp2.0\CitationParser.csproj.CoreCompileInputs.cache
+C:\Users\dbake\source\repos\CitationParser\CitationParser\obj\Debug\netcoreapp2.0\CitationParser.AssemblyInfoInputs.cache
+C:\Users\dbake\source\repos\CitationParser\CitationParser\obj\Debug\netcoreapp2.0\CitationParser.AssemblyInfo.cs
+C:\Users\dbake\source\repos\CitationParser\CitationParser\obj\Debug\netcoreapp2.0\CitationParser.dll
+C:\Users\dbake\source\repos\CitationParser\CitationParser\obj\Debug\netcoreapp2.0\CitationParser.pdb

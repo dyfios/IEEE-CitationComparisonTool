@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CitationParser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\dbake\\source\\repos\\CitationParser\\CitationParser\\citations.txt C:\\Users\\dbake\\source\\repos\\CitationParser\\CitationParser\\citations.txt"
+    }
+  }
+}

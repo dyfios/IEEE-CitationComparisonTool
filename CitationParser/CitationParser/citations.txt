@@ -1,0 +1,10 @@
+[1] B. Raghavanet al., “Software-defined internet architecture: decoupling architecture from infrastructure,” inProc. 11th ACM Workshop HotTopics Netw., 2012, pp. 43–48.
+[2] N. McKeownet al., “OpenFlow: Enabling innovation in campus net-works,”ACM SIGCOMM Comput. Commun. Rev., vol. 38, no. 2,pp. 69–74, Apr. 2008.
+[3] H. Hamed and E. Al-Shaer, “Taxonomy of conflicts in network security policies,”IEEE Commun. Mag., vol. 44, no. 3, pp. 134–141, Mar. 2006.
+[4] A. Wool, “A quantitative study of firewall configuration errors,”Computer, vol. 37, no. 6, pp. 62–67, Jun. 2004.
+[5] S. Scott-Hayward, G. O’Callaghan, and S. Sezer, “SDN security: A survey,” inProc. IEEE SDN4FNS, 2013, pp. 1–7.
+[6] D. Clark, R. Braden, K. Sollins, J. Wroclawski, and D. Katabi, “NewArch: Future generation Internet architecture,” Def. Tech. Inf. Center(DTIC), Fort Velvoir, VA, USA, Tech. Rep. AFRL-IF-RS-TR-2004-235,2004.
+[7] D. L. Tennenhouse, J. M. Smith, W. D. Sincoskie, D. J. Wetherall, andG. J. Minden, “A survey of active network research,”IEEE Commun. Mag., vol. 35, no. 1, pp. 80–86, Jan. 1997.
+[8] D. L. Tennenhouse and D. J. Wetherall, “Towards an active network architecture,” inProc. DARPA Active NEtw. Conf. Expo., 2002, pp. 2–15.
+[9] Z. Liu, R. Campbell, and M. Mickunas, “Active security support for active networks,”IEEE Trans. Syst., Man, Cybern., Part C, Appl. Rev.,vol. 33, no. 4, pp. 432–445, Nov. 2003.
+[10] S. Murphy, E. Lewis, R. Puga, R. Watson, and R. Yee, “Strong security for active networks,” inProc. IEEE Open Archit. Netw. Programm.,2001, pp. 63–70.
