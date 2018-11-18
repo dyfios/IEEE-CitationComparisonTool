@@ -1,10 +1,162 @@
-[1] B. Raghavanet al., “Software-defined internet architecture: decoupling architecture from infrastructure,” inProc. 11th ACM Workshop HotTopics Netw., 2012, pp. 43–48.
-[2] N. McKeownet al., “OpenFlow: Enabling innovation in campus net-works,”ACM SIGCOMM Comput. Commun. Rev., vol. 38, no. 2,pp. 69–74, Apr. 2008.
-[3] H. Hamed and E. Al-Shaer, “Taxonomy of conflicts in network security policies,”IEEE Commun. Mag., vol. 44, no. 3, pp. 134–141, Mar. 2006.
-[4] A. Wool, “A quantitative study of firewall configuration errors,”Computer, vol. 37, no. 6, pp. 62–67, Jun. 2004.
-[5] S. Scott-Hayward, G. O’Callaghan, and S. Sezer, “SDN security: A survey,” inProc. IEEE SDN4FNS, 2013, pp. 1–7.
-[6] D. Clark, R. Braden, K. Sollins, J. Wroclawski, and D. Katabi, “NewArch: Future generation Internet architecture,” Def. Tech. Inf. Center(DTIC), Fort Velvoir, VA, USA, Tech. Rep. AFRL-IF-RS-TR-2004-235,2004.
-[7] D. L. Tennenhouse, J. M. Smith, W. D. Sincoskie, D. J. Wetherall, andG. J. Minden, “A survey of active network research,”IEEE Commun. Mag., vol. 35, no. 1, pp. 80–86, Jan. 1997.
-[8] D. L. Tennenhouse and D. J. Wetherall, “Towards an active network architecture,” inProc. DARPA Active NEtw. Conf. Expo., 2002, pp. 2–15.
-[9] Z. Liu, R. Campbell, and M. Mickunas, “Active security support for active networks,”IEEE Trans. Syst., Man, Cybern., Part C, Appl. Rev.,vol. 33, no. 4, pp. 432–445, Nov. 2003.
-[10] S. Murphy, E. Lewis, R. Puga, R. Watson, and R. Yee, “Strong security for active networks,” inProc. IEEE Open Archit. Netw. Programm.,2001, pp. 63–70.
+[1] B. Raghavan et al., "Software-defined internet architecture: decoupling architecture from infrastructure," Proc. 11th ACM Workshop Hot Topics Netw., pp. 43-48, 2012. 
+[2] N. McKeown et al., "OpenFlow: Enabling innovation in campus networks," ACM SIGCOMM Comput. Commun. Rev., vol. 38, no. 2, pp. 69-74, Apr. 2008. 
+[3] H. Hamed E. Al-Shaer, "Taxonomy of conflicts in network security policies," IEEE Commun. Mag., vol. 44, no. 3, pp. 134-141, Mar. 2006. 
+[4] A. Wool, "A quantitative study of firewall configuration errors," Computer, vol. 37, no. 6, pp. 62-67, Jun. 2004. 
+[5] S. Scott-Hayward G. O'Callaghan S. Sezer, "SDN security: A survey," Proc. IEEE SDN4FNS, pp. 1-7, 2013. 
+[6] D. Clark R. Braden K. Sollins J. Wroclawski D. Katabi, "New Arch: Future generation Internet architecture," NOTLISTED, 2004. 
+[7] D. L. Tennenhouse J. M. Smith W. D. Sincoskie D. J. Wetherall G. J. Minden, "A survey of active network research," IEEE Commun. Mag., vol. 35, no. 1, pp., 80-86, Jan. 1997. 
+[8] D. L. Tennenhouse D. J. Wetherall, "Towards an active network architecture," Proc. DARPA Active NEtw. Conf. Expo., pp. 2-15, 2002. 
+[9] Z. Liu R. Campbell M. Mickunas, "Active security support for active networks," IEEE Trans. Syst. Man Cybern. Part C Appl. Rev., vol. 33, no. 4, pp. 432-445, Nov. 2003. 
+[10] S. Murphy E. Lewis R. Puga R. Watson R. Yee, "Strong security for active networks," Proc. IEEE Open Archit. Netw. Programm., pp. 63-70, 2001. 
+[11] A. Greenberg et al., "A clean slate 4D approach to network control and management," ACM SIGCOMM Comput. Commun. Rev., vol. 35, no. 5, pp. 41-54, Oct. 2005. 
+[12] Z. Cai A. L. Cox T. E. N. Maestro, "Maestro: A system for scalable OpenFlow control," NOTLISTED, 2010. 
+[13] M. Casado et al., "SANE: A protection architecture for enterprise networks," Proc. Usenix Security, pp. 137-151, 2006. 
+[14] M. Casado et al., "Ethane: Taking control of the enterprise," ACM SIGCOMM Comput. Commun. Rev., vol. 37, no. 4, pp. 1-12, Oct. 2007. 
+[15] Y. Jarraya T. Madi M. Debbabi, "A survey and a layered taxonomy of software-defined networking," IEEE Commun. Surveys Tuts., vol. 16, no. 4, pp. 1955-1980, 2014. 
+[16] S. Namal I. Ahmad S. Saud M. Jokinen A. Gurtov, "Implementation of OpenFlow based cognitive radio network architecture: SDN&amp;R," in Wireless Networks, New York NY USA:Springer, pp. 1-15, 2015. 
+[17] M. Liyanage A. Gurtov M. Ylianttila, "Software Defined Mobile Networks (SDMN): Beyond LTE Network Architecture," Hoboken NJ USA:Wiley, 2015. 
+[18] S. J. Vaughan-Nichols, "OpenFlow: The next generation of the network?," Computer, vol. 44, no. 8, pp. 13-15, Aug. 2011. 
+[19] T. Nadeau, "Software driven networks problem statement," NOTLISTED, Sep. 2011 [online] Available: https://tools.ietf.org/html/draft-nadeau-sdn-problem-statement-00. 
+[20] H. Xie T. Tsou D. Lopez H. Yin V. Gurbani, "Use cases for ALTO with software defined networks," NOTLISTED, 2012 [online] Available: https://tools.ietf.org/html/draft-xie-alto-sdn-use-cases-01. 
+[21] N. Gude et al., "NOX: towards an operating system for networks," ACM SIGCOMM Comput. Commun. Rev., vol. 38, no. 3, pp. 105-110, Jul. 2008. 
+[22] D. Kreutz et al., "Software-defined networking: A comprehensive survey," Proc. IEEE, vol. 103, no. 1, pp. 14-76, Jan. 2014. 
+[23] J. Jeong H. Kim J. Park, "Requirements for security services based on software-defined networking," NOTLISTED, Oct. 2014 [online] Available: https://tools.ietf.org/html/draft-jeong-l2nsf-sdn-security-services-00. 
+[24] M. Wasserman S. Hartman, "Security analysis of the open networking foundation (ONF) OpenFlow switch specification. Internet engineering task force," NOTLISTED, Apr. 2013 [online] Available: https://tools.ietf.org/html/draft-mrw-sdnsec-openflow-analysis-02. 
+[25] D. V. Bernardo, "Software-defined networking and network function virtualization security architecture," NOTLISTED, [online] Available: https://tools.ietf.org/html/draft-bernardo-sec-arch-sdnnvf-architecture-00. 
+[26] NOTLISTED, "Security architecture for systems providing end-to-end communications," NOTLISTED, 2003. 
+[27] A. Lara A. Kolasani B. Ramamurthy, "Network innovation using OpenFlow: A survey," IEEE Commun. Surveys Tuts., vol. 16, no. 1, pp. 493-512, 2013. 
+[28] NOTLISTED, "SDN: Empowering the network," NOTLISTED, Nov. 2012 [online] Available: http://www.cisco.com/c/en/us/solutions/data-center-virtualization/application-centric-infrastructure/index.html. 
+[29] NOTLISTED, "VMware NSX virtualization and security platform," NOTLISTED, [online] Available: https://www.vmware.com/products/nsx/. 
+[30] NOTLISTED, "SDN product directory," NOTLISTED, [online] Available: https://www.opennetworking.org/sdn-resources/onf-products-listing. 
+[31] NOTLISTED, "SDN market size forecast," NOTLISTED, Nov. 2013 [online] Available: https://www.sdncentral.com. 
+[32] D. Kreutz F. Ramos P. Verissimo, "Towards secure and dependable software-defined networks," Proc. 2nd ACM SIGCOMM Work. Hot Topics Softw. Defined Netw., pp. 55-60, 2013. 
+[33] S. Shin P. Porras V. Yegneswaran G. Gu, "A framework for integrating security services into software-defined networks," Proc. ONS, pp. 1-2, 2013. 
+[34] X. Wen Y. Chen C. Hu C. Shi Y. Wang, "Towards a secure controller platform for OpenFlow applications," Proc. 2nd ACM SIGCOMM Workshop Hot Topics Softw. Defined Netw., pp. 171-172, 2013. 
+[35] S. Hartman M. Wasserman D. Zhang, "Software driven networks problem statement," NOTLISTED, Oct. 2013 [online] Available: https://tools.ietf.org/html/draft-hartman-sdnsec-requirements-00. 
+[36] A. D. Ferguson A. Guha J. Place R. Fonseca S. Krishnamurthi, "Participatory networking," Proc. Hot-ICE, pp. 327-338, 2012. 
+[37] J. Naous D. Erickson G. A. Covington G. Appenzeller N. McKeown, "Implementing an OpenFlow switch on the NetFPGA platform," Proc. 4th ACM/IEEE Symp. Archit. Netw. Commun. Syst., pp. 1-9, 2008. 
+[38] M. Jarschel et al., "Modeling and performance evaluation of an OpenFlow architecture," Proc. 23rd ITCP, pp. 1-7, 2011. 
+[39] S. Shin V. Yegneswaran P. Porras G. Gu, "Avant-guard: Scalable and vigilant switch flow management in software-defined networks," Proc. CCS, pp. 413-424, 2013. 
+[40] G. Yao J. Bi L. Guo, "On the cascading failures of multi-controllers in software defined networks," Proc. 21st IEEE ICNP, pp. 1-2, Oct. 2013. 
+[41] S. Shin G. Gu, "Attacking software-defined networks: a first feasibility study," Proc. 2nd ACM SIGCOMM Workshop Hot Topics Softw. Defined Netw., pp. 165-166, 2013. 
+[42] P. Fonseca R. Bennesby E. Mota A. Passito, "A replication component for resilient OpenFlow-based networking," Proc. IEEE NOMS, pp. 933-939, Apr. 2012. 
+[43] J. Seedorf E. Burger, "Application-layer traffic optimization (ALTO) problem statement," NOTLISTED, 2009. 
+[44] E. Al-Shaer S. Al-Haj, "FlowChecker: Configuration analysis and verification of federated openflow infrastructures," Proc. 3rd ACM Workshop SafeConfig, pp. 37-44, 2010. 
+[45] Y. Zhang N. Beheshti M. Tatipamula, "On resilience of split-architecture networks," Proc. IEEE GLOBECOM, pp. 1-6, Dec. 2011. 
+[46] T. Dierks, "The Transport Layer Security (TLS) protocol version 1.2," NOTLISTED, 2008 [online] Available: http://tools.ietf.org/html/rfc5246. 
+[47] E. Rescorla N. Modadugu, "Datagram Transport Layer Security Version 1.2," NOTLISTED, 2012 [online] Available: http://tools.ietf.org/html/rfc6347. 
+[48] K. Benton L. J. Camp C. Small, "OpenFlow vulnerability assessment," Proc. 2nd ACM SIGCOMM Workshop HotSDN, pp. 151-152, 2013. 
+[49] M. Liyanage A. Gurtov, "Secured VPN models for LTE backhaul networks," Proc. IEEE VTC Fall, pp. 1-5, 2012. 
+[50] D. Staessens S. Sharma D. Colle M. Pickavet P. Demeester, "Software defined networking: Meeting carrier grade requirements," Proc. 18th IEEE Workshop LANMAN, pp. 1-6, Oct. 2011. 
+[51] S. Sezer et al., "Are we ready for SDN? Implementation challenges for software-defined networks," IEEE Commun. Mag., vol. 51, no. 7, pp. 36-43, Jul. 2013. 
+[52] S. Shin et al., "FRESCO: Modular composable security services for software-defined networks," Proc. Netw. Distrib. Security Symp., pp. 1-16, Feb. 2013 [online] Available: http://www.csl.sri.com/users/vinod/papers/fresco.pdf. 
+[53] R. Beckett et al., "An assertion language for debugging SDN applications," Proc3rd ACM Workshop Hot Topics Softw. Defined Netw., pp. 91-96, 2014. 
+[54] S. Son S. Shin V. Yegneswaran P. Porras G. Gu, "Model checking invariant security properties in openflow," Proc. IEEE ICC, pp. 1974-1979 2013. 
+[55] M. Canini D. Kostic J. Rexford D. Venzano, "Automating the testing of OpenFlow applications," Proc. 1st Int. WRiPE, pp. 1-6 2011. 
+[56] NOTLISTED, "Security-enhanced floodlight," NOTLISTED, [online] Available: http://www.sdncentral.com/education/toward-secure-sdn-control-layer/2013/10/. 
+[57] M. Fernandez, "Comparing openflow controller paradigms scalability: reactive and proactive," Proc. IEEE 27th Int. Conf. AINA, pp. 1009-1016 Mar. 2013. 
+[58] K. Phemius M. Bouet J. Leguay, "DISCO: Distributed multi-domain SDN controllers," Proc. IEEE NOMS, pp. 1-4 May 2014. 
+[59] K. Phemius M. Bouet J. Leguay, "DISCO: Distributed SDN controllers in a multi-domain environment," Proc. IEEE NOMS, pp. 1-2 May 2014. 
+[60] B. Heller R. Sherwood N. McKeown, "The controller placement problem," Proc. 1st ACM Workshop HotSDN, pp. 7-12 2012. 
+[61] Y. Hu W. Wang X. Gong X. Que S. Cheng, "On reliability-optimized controller placement for software-defined networks," Commun. China, vol. 11 no. 2 pp. 38-54 Feb. 2014. 
+[62] Y. Hu W. Wendong X. Gong X. Que C. Shiduan, "Reliability-aware controller placement for software-defined networks," Proc. IFIP/IEEE Int. Symp. IM, pp. 672-675 May 2013. 
+[63] A. Tootoonchian Y. Ganjali, "HyperFlow: A distributed control plane for OpenFlow," Proc. Internet Netw. Manag. Conf. Res. Enterprise Netw. USENIX Assoc., 2010. 
+[64] R. Braga E. Mota A. Passito, "Lightweight DDoS flooding attack detection using NOX/OpenFlow," Proc. IEEE 35th Conf. LCN, pp. 408-415 Oct. 2010. 
+[65] P. Porras et al., "A security enforcement kernel for OpenFlow networks," Proc. 1st Workshop HotSDN, pp. 121-126 2012. 
+[66] A. Khurshid W. Zhou M. Caesar P. B. Godfrey, "Veriflow: Verifying network-wide invariants in real time," SIGCOMM Comput. Commun. Rev., vol. 42 no. 4 pp. 467-472 Sep. 2012. 
+[67] A. K. Nayak A. Reimers N. Feamster R. Clark, "Resonance: dynamic access control for enterprise networks," Proc 1st ACM Workshop Res. Enterprise Netw., pp. 11-18 2009. 
+[68] N. Foster et al., "Frenetic: A network programming language," SIGPLAN Notices, vol. 46 no. 9 pp. 279-291 Sep. 2011. 
+[69] A. Voellmy H. Kim N. Feamster, "Procera: A language for high-level reactive network control," Proc. 1st Workshop HotSDN, pp. 43-48 2012. 
+[70] C. Monsanto N. Foster R. Harrison D. Walker, "A compiler and run-time system for network programming languages," SIGPLAN Notices, vol. 47 no. 1 pp. 217-230 Jan. 2012. 
+[71] N. Handigol B. Heller V. Jeyakumar D. Mazières N. McKeown, "Where is the debugger for my software-defined network?," Proc. 1st Workshop Hot Topics Softw. Defined Netw., pp. 55-60 2012. 
+[72] A. Wundsam D. Levin S. Seetharaman A. Feldmann, "OFRewind: Enabling record and replay troubleshooting for networks," Proc. USENIX Annu. Tech. Conf., 2011. 
+[73] B. Switch, "Developing floodlight modules. Floodlight OpenFlow controller," NOTLISTED, 2012 [online] Available: http://www.projectfloodlight.org/floodlight/. 
+[74] A. Voellmy J. Wang, "Scalable software defined network controllers," Proc. ACM SIGCOMM Conf. Appl. Technol. Archit. Protocols Comput. Commun., pp. 289-290 2012. 
+[75] Advanced Message Queuing Protocol [online] Available: http://www.amqp.org. 
+[76] I. Ahmad S. N. Karunarathna M. Ylianttila A. Gurtov, "Load balancing in software defined mobile networks," in Software Defined Mobile Networks (SDMN): Beyond LTE Network Architecture, Hoboken NJ USA:Wiley pp. 225-245 2015. 
+[77] S. Namal I. Ahmad A. Gurtov M. Ylianttila, "SDN based inter-technology load balancing leveraged by flow admission control," Proc. IEEE SDN4FNS, pp. 1-5 Nov. 2013. 
+[78] T. Kohonen, "The self-organizing map," Proc. IEEE, vol. 78 no. 9 pp. 1464-1480 Sep. 1990. 
+[79] M. Bari et al., "Dynamic controller provisioning in software defined networks," Proc. Int. CNSM, pp. 18-25 Oct. 2013. 
+[80] D. Hock et al., "Pareto-optimal resilient controller placement in SDN-based core networks," Proc. 25th ITC, pp. 1-9 Sep. 2013. 
+[81] J. C. Mogul et al., "DevoFlow: Cost-effective flow management for high performance enterprise networks," Proc. 9th ACM SIGCOMM Workshop Hotnets-IX, pp. 1-6 2010. 
+[82] J. Ge H. Shen E. Yuepeng Y. Wu J. You, "An OpenFlow-based dynamic path adjustment algorithm for multicast spanning trees," Proc. 12th Int. Conf. IEEE TrustCom, pp. 1478-1483 2013. 
+[83] J. Kempf et al., "Scalable fault management for OpenFlow," Proc. IEEE ICC, pp. 6606-6610 Jun. 2012. 
+[84] E. Maccherani et al., "Extending the NetServ autonomic management capabilities using OpenFlow," Proc. IEEE NOMS, pp. 582-585 Apr. 2012. 
+[85] F. Hao T. Lakshman S. Mukherjee H. Song, "Secure cloud computing with a virtualized network infrastructure," Proc. 2nd USENIX Conf. Hot Topics Cloud Comput., 2010. 
+[86] A. R. Sharafat S. Das G. Parulkar N. McKeown, "MPLS-TE and MPLS-VPN with OpenFlow," ACM SIGCOMM Comput. Commun. Rev., vol. 41 no. 4 pp. 452-453 Aug. 2011. 
+[87] S. A. Mehdi J. Khalid S. A. Khayam R. Sommer D. Balzarotti G. Maier, "Revisiting traffic anomaly detection using software defined networking," in Recent Advances in Intrusion Detection, Berlin Germany:Springer-Verlag pp. 161-180 2011. 
+[88] J. R. Ballard I. Rae A. Akella, "Extensible and scalable network monitoring using OpenSafe," Proc. INM/WREN, 2010. 
+[89] Z. A. Qazi et al., "SIMPLE-fying middlebox policy enforcement using SDN," SIGCOMM Comput. Commun. Rev., vol. 43 no. 4 pp. 27-38 Oct. 2013. 
+[90] M. Liyanage et al., "Security for future software defined mobile networks," Proc. 9th Int. Conf. NGMAST, pp. 1-9 2015. 
+[91] S. Gutz A. Story C. Schlesinger N. Foster, "Splendid isolation: A slice abstraction for software-defined networks," Proc. 1st Workshop HotSDN, pp. 79-84 2012. 
+[92] T. Hinrichs N. Gude M. Casado J. Mitchell S. Shenker, "Expressing and enforcing flow-based network security policies," NOTLISTED, pp. 1-20 2009 [online] Available: http://www.cs.uic.edu/~hinrichs/papers/hinrichs2008design.pdf. 
+[93] R. Bifulco F. Schneider, "OpenFlow rules interactions: Definition and detection," Proc. IEEE SDN4FNS, pp. 1-6 Nov. 2013. 
+[94] S. Shirali-Shahreza Y. Ganjali, "Empowering software defined network controller with packet-level information," Proc. IEEE ICC, pp. 1335-1339 Jun. 2013. 
+[95] S. Shirali-Shahreza Y. Ganjali, "Efficient implementation of security applications in openflow controller with flexam," Proc. IEEE 21st Annu. Symp. HOTI, pp. 49-54 Aug. 2013. 
+[96] S. Dotcenko A. Vladyko I. Letenko, "A fuzzy logic-based information security management for software-defined networks," Proc. IEEE ICACT, pp. 167-171 Feb. 2014. 
+[97] D. Erickson, "The Beacon Openflow Controller," Proc. 2nd ACM SIGCOMM Workshop Hot Topics Softw. Defined Netw., pp. 13-18 2011 [online] Available: http://doi.acm.org/10.1145/2491185.2491189. 
+[98] R. Skowyra S. Bahargam A. Bestavros, "Software-Defined IDS for securing embedded mobile devices," Proc. IEEE HPEC, pp. 1-7 Sep. 2013. 
+[99] L. Zhang G. Shou Y. Hu Z. Guo, "Deployment of intrusion prevention system based on software defined networking," Proc. IEEE ICCT, pp. 26-31 Nov. 2013. 
+[100] T. Xing D. Huang L. Xu C.-J. Chung P. Khatkar, "SnortFlow: A openflow-based intrusion prevention system in cloud environment," Proc. 2nd GREE, pp. 89-92 Mar. 2013. 
+[101] H. Li D. Liu, "Research on intelligent intrusion prevention system based on Snort," Proc. Int. Conf. CMCE, vol. 1 pp. 251-253 Aug. 2010. 
+[102] M. Roesch, "Snort: Lightweight intrusion detection for networks," Proc. LISA, vol. 99 pp. 229-238 1999. 
+[103] M. Femminella R. Francescangeli G. Reali J. W. Lee H. Schulzrinne, "An enabling platform for autonomic management of the future internet," IEEE Netw., vol. 25 no. 6 pp. 24-32 Nov. 2011. 
+[104] M. Bouet J. Leguay V. Conan, "Cost-based placement of virtualized deep packet inspection functions in SDN," Proc. IEEE MILCOM, pp. 992-997 Nov. 2013. 
+[105] N. L. van Adrichem C. Doerr F. A. Kuipers, "OpenNetMon: Network monitoring in OpenFlow software-defined networks," Proc. IEEE NOMS, pp. 1-8 May 2014. 
+[106] X. Liu H. Xue X. Feng Y. Dai, "Design of the multi-level security network switch system which restricts covert channel," Proc. IEEE 3rd ICCSN, pp. 233-237 May 2011. 
+[107] S. R. Chowdhury M. Bari R. Ahmed R. Boutaba, "PayLess: A low cost network monitoring framework for software defined networks," Proc. IEEE NOMS, pp. 1-9 May 2014. 
+[108] C.-T. Yang et al., "Implementation of a virtual switch monitor system using openflow on cloud," Proc. Int. Conf. IMIS Ubiquitous Comput., pp. 283-290 Jul. 2013. 
+[109] NOTLISTED, "OpenFlow Firewall: A Floodlight Module," NOTLISTED, [online] Available: http://www.openflowhub.org/display/floodlightcontroller. 
+[110] H. Hu W. Han G.-J. Ahn Z. Zhao, "FLOWGUARD: building robust firewalls for software-defined networks," Proc. 3rd Workshop Topics Softw. Defined Netw., pp. 97-102 2014. 
+[111] M. Koerner O. Kao, "Oftables: A distributed packet filter," Proc. 6th Int. Conf. COMSNETS, pp. 1-4 Jan. 2014. 
+[112] M. Suh S. H. Park B. Lee S. Yang, "Building firewall over the software-defined network controller," Proc. 16th ICACT, pp. 744-748 Feb. 2014. 
+[113] J. P. Sterbenz et al., "Resilience and survivability in communication networks: Strategies principles and survey of disciplines," Comput. Netw., vol. 54 no. 8 pp. 1245-1265 2010. 
+[114] P. Smith A. Schaeffer-Filho D. Hutchison A. Mauthe, "Management patterns: SDN-enabled network resilience management," Proc. IEEE NOMS, pp. 1-9 May 2014. 
+[115] K. Nguyen Q. T. Minh S. Yamada, "A software-defined networking approach for disaster-resilient WANs," Proc. 22nd ICCCN, pp. 1-5 Jul. 2013. 
+[116] K. Nguyen Q. T. Minh S. Yamada, "Towards optimal disaster recovery in backbone networks," Proc. IEEE 37th Annu. COMPSAC, pp. 826-827 2013. 
+[117] D. A. Joseph A. Tavakoli I. Stoica, "A policy-aware switching layer for data centers," Proc. ACM SIGCOMM, pp. 51-62 2008. 
+[118] J. Lee J. Tourrilhes P. Sharma S. Banerjee, "No more middlebox: Integrate processing into network," SIGCOMM Comput. Commun. Rev., vol. 40 no. 4 pp. 459-460 Aug. 2010. 
+[119] A. Gember P. Prabhu Z. Ghadiyali A. Akella, "Toward Software-defined Middlebox Networking," Proc. 11th ACM Workshop HotNets-XI, pp. 7-12 2012. 
+[120] B. Anwer T. Benson N. Feamster D. Levin J. Rexford, "A slick control plane for network middleboxes," Proc. 2nd ACM SIGCOMM Workshop HotSDN, pp. 147-148 2013. 
+[121] S. K. Fayazbakhsh V. Sekar M. Yu J. C. Mogul, "FlowTags: Enforcing network-wide policies in the presence of dynamic middlebox actions," Proc. 2nd ACM SIGCOMM Workshop HotSDN, pp. 19-24 2013. 
+[122] Y.-J. Chen F.-Y. Lin L.-C. Wang B.-S. Lin, "A dynamic security traversal mechanism for providing deterministic delay guarantee in SDN," Proc. IEEE Int. Symp. WoWMoM, pp. 1-6 Jun. 2014. 
+[123] R. Hand M. Ton E. Keller, "Active security," Proc. 12th ACM Workshop HotNets-XII, pp. 17:1-17:7 2013. 
+[124] A. Zaalouk R. Khondoker R. Marx K. Bayarou, "OrchSec: An orchestrator-based architecture for enhancing network-security using network monitoring and SDN control functions," Proc. IEEE NOMS, pp. 1-9 May 2014. 
+[125] K. Wang Y. Qi B. Yang Y. Xue J. Li, "LiveSec: Towards effective security management in large-scale production networks," Proc. ICDCSW, pp. 451-460 Jun. 2012. 
+[126] M. Casado T. Koponen R. Ramanathan S. Shenker, "Virtualizing the network forwarding plane," Proc. Workshop Programm. Routers Extensible Serv. Tomorrow, pp. 8 2010. 
+[127] J. Costa-Requena et al., "SDN and NFV integration in generalized mobile network architecture," Proc. EuCNC, pp. 154-158 Jun. 2015. 
+[128] I. Ahmad S. Namal M. Ylianttila A. Gurtov, "Towards software defined cognitive networking," Proc. Int. Conf. NTMS, pp. 1-5 2015. 
+[129] A. van Cleeff W. Pieters R. Wieringa, "Security implications of virtualization: A literature study," Proc. Int. Conf. CSE, vol. 3 pp. 353-358 Aug. 2009. 
+[130] S. Vaughan-Nichols, "Virtualization sparks security concerns," Computer, vol. 41 no. 8 pp. 13-15 Aug. 2008. 
+[131] R. Sherwood et al., "Flowvisor: A network virtualization layer," NOTLISTED, 2009. 
+[132] C.-J. Chung P. Khatkar T. Xing J. Lee D. Huang, "NICE: Network intrusion detection and countermeasure selection in virtual network systems," IEEE Trans. Dependable Secure Comput., vol. 10 no. 4 pp. 198-211 Jul. 2013. 
+[133] NOTLISTED, "SDN security considerations in the data center. Open networking foundation," NOTLISTED, [online] Available: https://www.opennetworking.org/sdn-resources/sdn-library. 
+[134] S. Shin G. Gu, "CloudWatcher: Network security monitoring using OpenFlow in dynamic cloud networks (or: How to provide security monitoring as a service in clouds?)," Proc. 20th IEEE ICNP, pp. 1-6 Oct. 2012. 
+[135] C. YuHunag T. MinChi C. YaoTing C. YuChieh C. YanRen, "A novel design for future on-demand service and security," Proc. 12th IEEE ICCT, pp. 385-388 2010. 
+[136] S. Namal I. Ahmad A. Gurtov M. Ylianttila, "Enabling secure mobility with OpenFlow," Proc. IEEE SDN4FNS, pp. 1-5 2013. 
+[137] G. Yao J. Bi P. Xiao, "Source address validation solution with OpenFlow/NOX architecture," Proc. 19th IEEE ICNP, pp. 7-12 2011. 
+[138] J. H. Jafarian E. Al-Shaer Q. Duan, "OpenFlow random host mutation: transparent moving target defense using software defined networking," Proc. 1st Workshop Hot Topics Softw. Defined Netw., pp. 127-132 2012. 
+[139] M. A. S. Santos et al., "Software-defined networking based capacity sharing in hybrid networks," Proc. IEEE ICNP, pp. 1-6 2013. 
+[140] J. Naous R. Stutsman D. Mazieres N. McKeown N. Zeldovich, "Delegating network security with more information," Proc. 1st ACM Workshop Res. Enterprise Netw., pp. 19-26 2009. 
+[141] Z. Faigl J. Pellikka L. Bokor A. Gurtov, "Performance evaluation of current and emerging authentication schemes for future 3GPP network architectures," Comput. Netw., vol. 60 pp. 60-74 2014. 
+[142] D. Farinacci D. Lewis D. Meyer V. Fuller, "The locator/ID separation protocol (LISP)," NOTLISTED, 2013. 
+[143] A. Gurtov Host Identity Protocol (HIP): Towards the Secure Mobile Internet, Hoboken NJ USA:Wiley 2008. 
+[144] A. Sgambelluri A. Giorgetti F. Cugini F. Paolucci P. Castoldi, "Effective flow protection in OpenFlow rings," Proc. OFC/NFOEC, pp. 1-3 Mar. 2013. 
+[145] J. Li J. Hyun J.-H. Yoo S. Baik J.-K. Hong, "Scalable failover method for data center networks using OpenFlow," Proc. IEEE NOMS, pp. 1-6 May 2014. 
+[146] P. Nikander A. Gurtov T. Henderson, "Host Identity Protocol (HIP): Connectivity mobility multi-homing security and privacy over IPv4 and IPv6 networks," IEEE Commun. Surveys Tuts., vol. 12 no. 2 pp. 186-204 2010. 
+[147] M. Liyanage M. Ylianttila A. Gurtov, "Securing the control channel of software-defined mobile networks," Proc. IEEE 15th Int. Symp. WoWMoM, pp. 1-6 Jun. 2014. 
+[148] A. R. Curtis et al., "DevoFlow: Scaling flow management for high-performance networks," ACM SIGCOMM Comput. Commun. Rev., vol. 41 no. 4 pp. 254-265 Aug. 2011. 
+[149] M. Yu J. Rexford M. J. Freedman J. Wang, "Scalable flow-based networking with DIFANE," ACM SIGCOMM Comput. Commun. Rev., vol. 41 no. 4 pp. 351-362 Oct. 2011. 
+[150] S. Sharma D. Staessens D. Colle M. Pickavet P. Demeester, "Enabling fast failure recovery in OpenFlow networks," Proc. 8th Int. Workshop DRCN, pp. 164-171 2011. 
+[151] L. Vanbever J. Reich T. Benson N. Foster J. Rexford, "HotSwap: Correct and efficient controller upgrades for software-defined networks," Proc. 2nd ACM SIGCOMM HotSDN, pp. 133-138 2013.
+[152] B. Pfaff J. Pettit K. Amidon M. Casado T. Koponen S. Shenker, "Extending networking into the virtualization layer," Proc. Hotnets, pp. 1-6 2009. 
+[153] A. Gember C. Dragga A. Akella, "ECOS: Leveraging software-defined networks to support mobile application offloading," Proc. 8th ACM/IEEE Symp. ANCS, pp. 199-210 2012. 
+[154] A. Keromytis, "Voice-over-IP security: Research and practice," IEEE Security Privacy, vol. 8 no. 2 pp. 76-78 Mar. 2010. 
+[155] A. Tootoonchian S. Gorbunov Y. Ganjali M. Casado R. Sherwood, "On controller performance in software-defined networks," Proc. USENIX Workshop, Hot-ICE 2012. 
+[156] B. Jennings et al., "Towards autonomic management of communications networks," IEEE Commun. Mag., vol. 45 no. 10 pp. 112-121 Oct. 2007. 
+[157] H. Kim N. Feamster, "Improving network management with software defined networking," IEEE Commun. Mag., vol. 51 no. 2 pp. 114-119 Feb. 2013. 
+[158] NOTLISTED, "Software-defined networking: The new norm for networks," NOTLISTED, NOTLISTED. 
+[159] W. Kim et al., "Automated and scalable QoS control for network convergence," Proc. INM/WREN, vol. 10 pp. 1-1 2010. 
+[160] D. M. Mattos et al., "OMNI: OpenFlow management infrastructure," Proc. IEEE Int. Conf. NOF, pp. 52-56 2011. 
+[161] J. Rexford C. Dovrolis, "Future internet architecture: clean-slate versus evolutionary research," Commun. ACM, vol. 53 no. 9 pp. 36-40 Sep. 2010. 
+[162] T. Li, "Design goals for scalable internet routing," NOTLISTED, 2011. 

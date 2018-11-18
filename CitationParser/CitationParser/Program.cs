@@ -45,25 +45,25 @@ namespace CitationParser
             {
                 foreach (Citation secondCitation in second)
                 {
-                    if (firstCitation.rawCitation == secondCitation.rawCitation)
+                    if (firstCitation.rawCitation == secondCitation.rawCitation && firstCitation.rawCitation != null)
                     {
                         Console.WriteLine("Found a citation match:\n" + firstCitation.rawCitation + "\n");
                     }
                     else
                     {
-                        if (firstCitation.title == secondCitation.title)
+                        if (firstCitation.title == secondCitation.title && firstCitation.title != null)
                         {
                             Console.WriteLine("Found a title match:\n" + firstCitation.rawCitation
                                 + "\n" + secondCitation.rawCitation + "\n");
                         }
 
-                        if (firstCitation.authors == secondCitation.authors)
+                        if (firstCitation.authors == secondCitation.authors && firstCitation.authors != null)
                         {
                             Console.WriteLine("Found an authors match:\n" + firstCitation.rawCitation
                                 + "\n" + secondCitation.rawCitation + "\n");
                         }
 
-                        if (firstCitation.publication == secondCitation.publication)
+                        if (firstCitation.publication == secondCitation.publication && firstCitation.publication != null)
                         {
                             Console.WriteLine("Found a publication match:\n" + firstCitation.rawCitation
                                 + "\n" + secondCitation.rawCitation + "\n");
@@ -134,8 +134,16 @@ namespace CitationParser
 
         static string GetAuthorsFromCitation(string citation)
         {
-            return citation.Substring(0, citation.IndexOf('"')).
+            int maxIndex = citation.IndexOf('"');
+            if (maxIndex > 0)
+            {
+                return citation.Substring(0, maxIndex).
                 TrimEnd(new char[] { ' ', ',' });
+            }
+            else
+            {
+                return null;
+            }
         }
 
         static string GetTitleFromCitation(string citation)
@@ -148,7 +156,16 @@ namespace CitationParser
         static string GetPublicationFromCitation(string citation)
         {
             string publication = citation.Substring(citation.LastIndexOf('"') + 1);
-            return publication.Substring(0, publication.IndexOf(',')).TrimStart();
+
+            int maxIndex = publication.IndexOf(',');
+            if (maxIndex > 0)
+            {
+                return publication.Substring(0, publication.IndexOf(',')).TrimStart();
+            }
+            else
+            {
+                return null;
+            }
         }
 
         static string RemoveLeadingIndex(string citation)
