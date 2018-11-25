@@ -1,0 +1,132 @@
+[1] A. Doria J. Hadi Salim R. Haas H. Khosravi W. Wang L. Dong R. Gopal J. Halpern "Forwarding and Control Element Separation (For CES) Protocol Specification," NOTLISTED, March 2010. 
+[2] N. McKeown T. Anderson H. Balakrishnan G. Parulkar L. Peterson J. Rexford S. Shenker J. Turner, "Openflow: enabling innovation in campus networks," ACM SIGCOMM Computer Commun. Review, vol. 38 no. 2 pp. 69-74 2008.
+[3] Open networking foundation [online] Available: https://www.opennetworking.org/about. 
+[4] Open Networking Research Center (ONRC) [online] Available: http://onrc.net. 
+[5] Thomas A. Limoncelli, "Openflow: a radical new idea in networking," Commun. ACM, vol. 55 no. 8 pp. 42-47 August 2012. 
+[6] A. T. Campbell I. Katzela K. Miki J. Vicente, "Open signaling for atm internet and mobile networks (opensig'98)," ACM SIGCOMM Computer Commun. Review, vol. 29 no. 1 pp. 97-108 1999. 
+[7] NOTLISTED, "RFC 3292 (Proposed Standard)," A. Doria F. Hellstrand K. Sundell T. Worster, "General Switch Management Protocol (GSMP) V3," NOTLISTED, June 2002. 
+[8] D.L. Tennenhouse J.M. Smith W.D. Sincoskie D.J. Wetherall G.J. Minden, "A survey of active network research," IEEE Commun. Mag., vol. 35 no. 1 pp. 80-86 1997. 
+[9] D.L. Tennenhouse D.J. Wetherall, "Towards an active network architecture," DARPA Active NEtworks Conf. and Exposition, 2002. Proc. pp. 2-15 2002. 
+[10] J.T. Moore S.M. Nettles, "Towards practical programmable packets," Proc. 20th Conf. on Computer Commun. (INFOCOM)., Citeseer 2001. 
+[11] Devolved Control of ATM Networks [online] Available: http://www.cl.cam.ac.uk/research/srg/netos/old-projects/dcan/#pub. 
+[12] J. E. Van Der Merwe I. M. Leslie, "Switchlets and dynamic virtual atm networks," Proc Integrated Network Management, V pp. 355-368 1997. 
+[13] J.E. Van der Merwe S. Rooney I. Leslie S. Crosby, "The tempest-a practical framework for network programmability," IEEE Netw., vol. 12 no. 3 pp. 20-28 1998. 
+[14] J. Rexford A. Greenberg G. Hjalmtysson D.A. Maltz A. Myers G. Xie J. Zhan H. Zhang, "Network-wide decision making: Toward a wafer-thin control plane," Proc. HotNets, pp. 59-64 2004. 
+[15] A. Greenberg G. Hjalmtysson D.A. Maltz A. Myers J. Rexford G. Xie H. Yan J. Zhan H. Zhang, "A clean slate 4d approach to network control and management," ACM SIGCOMM Computer Commun. Review, vol. 35 no. 5 pp. 41-54 2005. 
+[16] M. Caesar D. Caldwell N. Feamster J. Rexford A. Shaikh J. van der Merwe, "Design and implementation of a routing control platform," Proc. 2nd conf. on Symp. on Networked Systems Design &amp; Implementation,-Volume 2 pp. 15-28 2005. 
+[17] N. Gude T. Koponen J. Pettit B. Pfaff M. Casado N. McKeown S. Shenker, "Nox: towards an operating system for networks," ACM SIGCOMM Computer Commun. Review, vol. 38 no. 3 pp. 105-110 2008. 
+[18] R. Enns, "NETCONF Configuration Protocol," RFC 4741 (Proposed Standard), December 2006. 
+[19] J. D. Case M. Fedor M. L. Schoffstall J. Davin, "Simple network management protocol (snmp)," rfc1157, 1990. 
+[20] M. Casado M.J. Freedman J. Pettit J. Luo N. McKeown S. Shenker, "Ethane: Taking control of the enterprise," ACM SIGCOMM Computer Commun. Review, vol. 37 no. 4 pp. 1-12 2007. 
+[21] Z. Cai AL Cox TSE Ng. Maestro, "A system for scalable openflow control," Technical Report TR, pp. 10-08 December 2010. 
+[22] Beacon [online] Available: https://openflow.stanford.edu/display/Beacon/Home. 
+[23] Simple Network Access Control (SNAC) [online] Available: http://www.openfiow.org/wp/snac/. 
+[24] Helios by nec. [online] Available: http://www.nec.com/. 
+[25] Andrea Passarella, "Review: A survey on content-centric technologies for the current internet: Cdn and p2p solutions," Comput. Commun., vol. 35 no. 1 pp. 1-32 January 2012. 
+[26] Wang Zhiliang Tsou Tina Huang Jing Shi Xingang Yin Xia, "Analysis of Comparisons between OpenFlow and For CES," NOTLISTED, March 2012. 
+[27] Lu Guohan Miao Rui Xiong Yongqiang Guo Chuanxiong, "Using cpu as a traffic co-processing unit in commodity switches," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 31-36 2012. 
+[28] Jeffrey C. Mogul Congdon Paul, "Hey you darned counters!: get off my asic!," Proc. 1st workshop on Hot topics in software defined networks HotSDN '12 pp. 25-30 2012. 
+[29] Luo Yan Cascon Pablo Murray Eric Ortega Julio, "Accelerating openflow switching with network processors," Proc. 5th ACM/IEEE Symp. on Architectures for Networking and Commun. Syst., ANCS '09 pp. 70-71 2009. 
+[30] Tanyingyong Voravit Hidell Markus Peter Sjödin, "Improving pc-based openflow switching performance," Proc. 6th ACM/IEEE Symp. on Architectures for Networking and Commun. Syst. ANCS, '10 pp. 13-13:2 2010. 
+[31] A. Bianco R. Birke L. Giraudo M. Palacin, "Openflow switching: Data plane performance," 2010 IEEE Int. Conf. Commun. (ICC), pp. 1-5 May. 
+[32] M. Jarschel S. Oechsner D. Schlosser R. Pries S. Goll P. Tran-Gia, "Modeling and performance evaluation of an openflow architecture," Teletraffic Congress (ITC), 2011 23rd Int. pp. 1-7 Sept. 
+[33] Brent Stephens Cox Alan Wes Felter Dixon Colin John Carter, "Past: scalable ethernet for data centers," Proc. 8th into conf. on Emerging networking experiments and technologies CoNEXT, '12 pp. 49-60 2012. 
+[34] R. Curtis Andrew Jeffrey C. Mogul Jean Tourrilhes Yala-gandula Praveen Sharma Puneet Banerjee Sujata, "Devoflow: scaling flow management for high-performance networks," SIGCOMM Comput. Commun. Rev., vol. 41 no. 4 pp. 254-265 August 2011. 
+[35] M. Yu J. Rexford M.J. Freedman J. Wang, "Scalable flow-based networking with difane," Proc. ACM SIGCOMM 2010 conf. on SIGCOMM, pp. 351-362 2010. 
+[36] Kanizo Yossi Hay David Keslassy Palette Isaac, "Distributing tables in software-defined networks," INFO COM, pp. 545-549 2013. 
+[37] Kang Nanxi Liu Zhenming Rexford Jennifer Walker David, "Optimizing the one big switch abstraction in software-defined networks," NOTLISTED, NOTLISTED. 
+[38] Floodlight an open sdn controller [online] Available: http://floodlight.openflowhub.org/. 
+[39] A. Tootoonchian S. Gorbunov Y. Ganjali M. Casado R. Sher-wood, "On controller performance in software-defined networks," USENIX Workshop on Hot Topics in Management of Internet Cloud and Enterprise Networks and Services (Hot-ICE), 2012. 
+[40] Voellmy Andreas Wang Junchang, "Scalable software defined network controllers," Proc. ACM SIGCOMM 2012 conf. on Applications technologies architectures and protocols for computer commun. SIGCOMM, '12 pp. 289-290 2012. 
+[41] Heller Brandon Sherwood Rob McKeown Nick, "The controller placement problem," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 7-12 2012. 
+[42] K. Phemius M. Bouet, "Openflow: Why latency does matter," Integrated Network Management (1M 2013) 2013 IFIP/IEEE Int. Symp. on, pp. 680-683 2013. 
+[43] S.H. Yeganeh A. Tootoonchian Y. Ganjali, "On scalability of software-defined networking," IEEE Commun. Mag., vol. 51 no. 2 pp. 136-141. 
+[44] T. Koponen M. Casado N. Gude J. Stribling L. Poutievski M. Zhu R. Ramanathan Y. Iwata H. Inoue T. Hama et al., "Onix: A distributed control platform for large-scale production networks," OSDI, Oct 2010.
+[45] A. Tootoonchian Y. Ganjali, "Hyperflow: A distributed control plane for openflow," Proc. 2010 internet network management conf. on Research on enterprise netw. pp. 3-3 2010. 
+[46] Levin Dan Wundsam Andreas Heller Brandon Handigol Nikhil Feldmann Anja, "Logically centralized?: state distribution trade-offs in software defined networks," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 1-6 2012. 
+[47] Yeganeh Soheil Hassas Ganjali Yashar, "Kandoo: a framework for efficient and scalable offloading of control applications," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 19-24 2012. 
+[48] R. Sherwood M. Chan A. Covington G. Gibb M. Flajslik N. Handigol T.Y. Huang P. Kazemian M. Kobayashi J. Naous et al., "Carving research slices out of your production networks with openflow," ACM SIGCOMM Computer Commun. Review, vol. 40 no. 1 pp. 129-130 2010. 
+[49] Itutelecommunicationstandardizationsector's sdn portal 2013 [online] Available: http://www.itu.int/eniITUT/sdn/Pages/default.aspx. 
+[50] Software-defined networking research group - sdnrg at irtf 2013 [online] Available: http://irtf.org/sdnrg. 
+[51] Openstack 2013 [online] Available: http://www.openstack.org/. 
+[52] Opendaylight 2013 [online] Available: http://www.opendaylight.org/. 
+[53] Lantz Bob Heller Brandon McKeown Nick, "A network in a laptop: rapid prototyping for software-defined networks," Proc. 9th ACM SIGCOMM Workshop on Hot Topics in Netw. 2010. 
+[54] T.R. Henderson M. Lacage G.F. Riley C. Dowell JB Kopena, "Network simulations with the ns-3 simulator," SIGCOMM demonstration, 2008. 
+[55] Open vswitch and ovs-controller [online] Available: http://openvswitch.org/. 
+[56] NOTLISTED, "Pantou: Openflow 1.0 for openwrt," [online] Available: http://www.openflow.org/wk/index.php/Open-Flow_1.0_for_OpenWRT. 
+[57] ofsoftswitch13 - cpqd. [online] Available: https://github.com/CPqD/ofsoftswitch13. 
+[58] Indigo: Open source openflow switches [online] Available: http://www.openflowhub.org/display/Indigo/. 
+[59] Pox [online] Available: http://www.noxrepo.org/pox/about-pox/. 
+[60] Mul [online] Available: http://sourceforge.net/p/mul/wiki/Home/. 
+[61] Trema openflow controller framework [online] Available: https://github.com/trema/trema. 
+[62] Jaxon:java-based openflow controller [online] Available: http://jaxon.onuos.org/. 
+[63] Ryu. [online] Available: http://ostg.github.com/ryu/. 
+[64] NOTLISTED, "The nodeflow openflow controller," [online] Available: http://garyberger.net/?p=537. 
+[65] Node. js. [online] Available: http://nodejs.org/. 
+[66] Marcelo R. Nascimento Christian E. Rothenberg Marcos R. Salvador Carlos N. A. Correa Sidney C. de Lucena Mauricio F. Magalhaes, "Virtual routers as a service: the routeflow approach leveraging software-defined networks," Proc. 6th Int. Conf. on Future Internet Technol. CFI, '11 pp. 34-37 2011. 
+[67] Rothenberg Christian Esteve Nascimento Marcelo Ribeiro Salvador Marcos Rogerio Araujo Correa Carlos Nilton Sidney Cunha de Lucena Robert Raszuk, "Revisiting routing control platforms with the eyes and muscles of software-defined networking," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 13-18 2012. 
+[68] M. Canini D. Venzano P. Peresini D. Kostic J. Rexford, "A nice way to test openflow applications," NSDI, Apr 2012. 
+[69] Mai Haohui Ahmed Khurshid Agarwal Rachit Matthew Caesar P. Brighten Godfrey Samuel Talmadge King, "Debugging the data plane with anteater," Proc. ACM SIGCOMM, 2011 conf. SIGCOMM '11 pp. 290-301 2011. 
+[70] Ahmed Khurshid Zhou Wenxuan Caesar Matthew P. Brighten Godfrey, "Veriflow: verifying network-wide invariants in real time," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 49-54 2012. 
+[71] Wundsam Andreas Levin Dan Srini Seetharaman Feld-mann Anja, "Ofrewind: enabling record and replay troubleshooting for networks," Proc. 2011 USENIX conf. on USENIX annu. technical conf., USENIXATC'll pp. 29-29 2011. 
+[72] Handigol Nikhil Heller Brandon Jeyakumar Vimalkumar Mazieres David Nick McKeown, "Where is the debugger for my software-defined network?," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 55-60 2012. 
+[73] Sdn troubleshooting simulator [online] Available: http://ucb-sts.github.com/sts/. 
+[74] N. Handigol S. Seetharaman M. Flajslik N. McKeown R. Johari, "Plug-n-serve: Load-balancing web traffic using openflow," ACM SIGCOMM Demo, 2009. 
+[75] R. Wang D. Butnariu J. Rexford, "Openflow-based server load balancing gone wild," Workshop of HotICE, vol. 11 2011. 
+[76] A.K. Nayak A. Reimers N. Feamster R. Clark, "Resonance: Dynamic access control for enterprise networks," Proc. 1st ACM workshop on Research on enterprise networking, pp. 11-18 2009. 
+[77] A. Gember P. Prabhu Z. Ghadiyali A. Akella, "Toward software-defined middlebox networking," NOTLISTED, 2012. 
+[78] Reitblatt Mark Foster Nate Rexford Jennifer Cole Schlesinger Walker David, "Abstractions for network update," Proc. ACM SIGCOMM 2012 conf. on Applications technologies architectures and protocols for computer commun. SIGCOMM, '12 pp. 323-334 2012. 
+[79] B. Heller S. Seetharaman P. Mahadevan Y. Yiakoumis P. Sharma S. Banerjee N. McKeown, "Elastictree: Saving energy in data center networks," Proc. 7th USENIX conf. on Networked systems design and implementation, pp. 17-17 2010. 
+[80] H. Shirayanagi H. Yamada K. Kono, "Honeyguide: A vm migration-aware network topology for saving energy consumption in data center networks," 2012 IEEE Symp. Computers and Commun. (ISCC), pp. 000460-000467 2012. 
+[81] NOTLISTED, "Inter-datacenter wan with centralized te using sdn and openflow," Open Networking Summit, April 2012. 
+[82] Jain Sushant Kumar Alok Mandal Subhasree Ong Joon Leon Poutievski Singh Arjun Venkata Subbaiah Jim Wanderer Zhou Junlan Zhu Min et al., "B4: Experience with a globally-deployed software defined wan," Proc. ACM SIGCOMM 2013 conf on SIGCOMM, pp. 3-14 2013. 
+[83] K.K. Yap R. Sherwood M. Kobayashi T.Y. Huang M. Chan N. Handigol N. McKeown G. Parulkar, "Blueprint for introducing innovation into wireless mobile networks," Proc. 2nd ACM SIGCOMM workshop on Virtualized infrastructure systems and architectures, pp. 25-32 2010. 
+[84] K.K. Yap M. Kobayashi R. Sherwood T.Y. Huang M. Chan N. Handigol N. McKeown, "Openroads: Empowering research in mobile networks," ACM SIGCOMM Computer Commun. Review, vol. 40 no. 1 pp. 125-126 2010. 
+[85] L.E. Li Z.M. Mao J. Rexford, "Toward software-defined cellular networks," Software Defined Networking (EWSDN) 2012 European Workshop, on pp. 7-12 2012. 
+[86] Suresh Lalith Schulz-Zander Julius Merz Ruben Feldmann Anja Vazao Teresa, "Towards programmable enterprise wlans with odin," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 115-120 2012. 
+[87] M. Bansal J. Mehlman S. Katti P. Levis, "Openradio: a programmable wireless dataplane," Proc. 1st workshop on Hot topics in software defined networks, pp. 109-114 2012. 
+[88] NOTLISTED, "Optical transport working group otwg," Open Networking Foundation ONF, 2013. 
+[89] V. Gudla S. Das A. Shastri G. Parulkar N. McKeown L. Kazovsky S. Yamashita, "Experimental demonstration of openflow control of packet and circuit switches," Optical Fiber Commun. (OFC) collocated National Fiber Optic Engineers Conf. 2010 Conf. on (OFC/NFOEC), pp. 1-3 2010. 
+[90] Netfpga platform [online] Available: http://netfpga.org. 
+[91] Dimitra E. Simeonidou Reza Nejabati Channegowda Mayur, "Software defined optical networks technology and infrastructure: Enabling software-defined optical network operations," Optical Fiber Commun. Conf/National Fiber Optic Engineers Conf, .2013 page OTh1H.3. Optical Society of America 2013. 
+[92] Lei Liu T. Tsuritani I. Morita Guo Hongxiang Wu Jian, "Openflow-based wavelength path control in transparent optical networks: A proof-of-concept demonstration," Optical Commun. (ECOC) 2011 37th European Conf. and Exhibition on, pp. 1-3 2011. 
+[93] A.N. Patel P.N. Ji Wang Ting, "Qos-aware optical burst switching in openflow based software-defined optical networks," Optical Netw. Design and Modeling (ONDM) 2013 17th Int. Conf. on, pp. 275-280 2013. 
+[94] K.L. Calvert W.K. Edwards N. Feamster R.E. Grinter Y. Deng X. Zhou, "Instrumenting home networks.," ACM SIGCOMM Computer Commun Review, vol. 41 no. 1 pp. 84-89 2011. 
+[95] N. Feamster, "Outsourcing home network security," Proc. 2010 ACM SIGCOMM workshop on Home networks, pp. 37-42 2010. 
+[96] R. Mortier T. Rodden T. Lodge D. McAuley C. Rotsos AW Moore A. Koliousis J. Sventek, "Control and understanding: Owning your home network," 2012 4th Int. Conf. on Commun. Syst. and Netw. (COMSNETS), pp. 1-10 2012. 
+[97] S. Mehdi J. Khalid S. Khayam, "Revisiting traffic anomaly detection using software defined networking," in Recent Advances in Intrusion Detection Springer, pp. 161-180 2011. 
+[98] Nakao Akihiro, "Flare: Open deeply programmable network node architecture," NOTLISTED, [online] Available: http://netseminar.stanford.edu/10_18_12.html. 
+[99] R. Bifulco R. Canonico M. Brunner P. Hasselmeyer F. Mir, "A practical experience in designing an openflow controller," Software Defined Networking (EWSDN) 2012 European Workshop on, pp. 61-66 Oct. 
+[100] Controller performance comparisons [online] Available: http://www.openftow.org/wk/index.php/Controller_Performance_Comparisons. 
+[101] Erickson David The beacon openflow controller 2012. 
+[102] Dixit Advait Hao Fang Mukherjee Sarit T.V. Lakshman Kompella Ramana, "Towards an elastic distributed sdn controller," Proc. 2nd ACM SIGCOMM workshop on Hot topics in software defined networking HotSDN, '13 pp. 7-12 2013. 
+[103] Casado Martin Koponen Teemu Shenker Scott Tootoonchian Amin, "Fabric: a retrospective on evolving sdn," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 85-90 2012. 
+[104] Yu Minlan Jose Lavanya Miao Rui, "Software defined traffic measurement with opensketch," Proc. 10th USENIX Symp. on Networked Systems Design and Implementation NSDI,'I3 2013. 
+[105] Feldmann Anja, "Internet clean-slate design: what and why?," SIGCOMM Comput. Commun. Rev., vol. 37 no. 3 pp. 59-64 July 2007. 
+[106] Raghavan Barath Casado Martin Koponen Teemu Ratnasamy Sylvia Ghodsi Ali Shenker Scott, "Software-defined internet architecture: decoupling architecture from infrastructure," Proc. 11th ACM Workshop on Hot Topics in Networks HotNets, -XI pp. 43-48 2012. 
+[107] R. Bennesby P. Fonseca E. Mota A. Passito, "An inter-as routing component for software-defined networks," Network Operations and Management Symp. (NOMS), 2012 IEEE pp. 138-145 2012.
+[108] E. Kissel G. Fernandes M. Jaffee M. Swany M. Zhang, "Driving software defined networks with xsp," SDNI2: Workshop on Software Defined Networks, 2012. 
+[109] Voellmy Andreas Kim Hyojoon Feamster Nick, "Procera: a language for high-level reactive network control," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 43-48 2012. 
+[110] Nate Foster Rob Harrison Michael J. Freedman Christopher Monsanto Rexford Jennifer Story Alec Walker David, "Frenetic: a network programming language," Proc. 16th ACM SIGPLAN into conf on Functional programming ICFP, '11 pp. 279-291 2011. 
+[111] L. Hinrichs Timothy Natasha S. Gude Casado Martin John C. Mitchell Shenker Scott, "Practical declarative network management," Proc. 1st ACM workshop on Research on enterprise networking WREN, '09 pp. 1-10 2009. 
+[112] Voellmy Andreas Hudak Paul, "Nettle: taking the sting out of programming network routers," Proc. 13th into conf on Practical aspects of declarative languages PADL'll, pp. 235-249 2011. 
+[113] Kim Hyojoon N. Feamster, "Improving network management with software defined networking," IEEE Commun. Mag., vol. 51 no. 2 pp. 114-119. 
+[114] Monsanto Christopher Reich Joshua Foster Nate Rexford Jennifer Walker David, "Composing software-defined networks," Proc. 10th USENIX Symp. on Networked Systems Design and Implementation NSDI'I3, 2013. 
+[115] Bozakov Zdravko Papadimitriou Panagiotis, "Autoslice: automated and scalable slicing for software-defined networks," Proc. 2012 ACM conf on CoNEXT student workshop CoNEXT Student’, 12 pp. 3-4 2012. 
+[116] Connected cloud control: Openflow in mirage [online] Available: http://www.openmirage.org/blog/announcing-mirage-openftow. 
+[117] D. Drutskoy E. Keller J. Rexford, "Scalable network virtualization in software-defined networks," IEEE Internet Comput., pp. 1-1. 
+[118] Ghorbani Soudeh Caesar Matthew, "Walk the line: consistent network updates with bandwidth guarantees," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 67-72 2012. 
+[119] Keller Eric Ghorbani Soudeh Caesar Matt Rexford Jennifer, "Live migration of an entire network (and its hosts)," Proc. 11th ACM Workshop on Hot Topics in Networks HotNets, -XI pp. 109-114 2012. 
+[120] Raghavendra Ramya Lobo Jorge Lee Kang-Won, "Dynamic graph query primitives for sdn-based cloudnetwork management," Proc. 1st workshop on Hot topics in software defined networks HotSDN, '12 pp. 97-102 2012. 
+[121] Wang Xiang Liu Zhi Qi Yaxuan Li Jun, "Livecloud: A lucid orchestrator for cloud datacenters," 2012 IEEE 4th Int. Conf. Cloud Computing Technology and Science (CloudCom), pp. 341-348 2012. 
+[122] V. Jacobson D.K. Smetters J.D. Thornton M.F. Plass N.H. Briggs R.L. Braynard, "Networking named content," Proc. 5th into conf on Emerging networking experiments and technologies, pp. 1-12 2009. 
+[123] Nguyen Xuan-Nam Saucez Damien Turletti Thierry, "Efficient caching in Content-Centric Networks using OpenFlow," 2013 IEEE Conf. Computer Commun. Workshops (INFOCOM WKSHPS), pp. 67-68 April 2013. 
+[124] L. Veltri G. Morabito S. Salsano N. Blefari-Melazzi A. Detti, "Supporting information-centric functionality in software defined networks," IEEE ICC Workshop on Software Defined Netw. June 2012. 
+[125] N. Blefari-Melazzi A. Detti G. Mazza G. Morabito S. Salsano L. Veltri, "An openflow-based testbed for information centric networking," Future Network &amp; Mobile Summit, pp. 4-6 2012. 
+[126] Suh Junho Jung Hyogi Kwon Taekyoung Choi Yanghee, "C-flow: Content-oriented networking over openflow," Open Networking Summit, April 2012. 
+[127] D. Syrivelis G. Parisis D. Trossen P. Flegkas V. Sourlas T. Korakis L. Tassiulas, "Pursuing a software defined information-centric network," Software Defined Networking (EWSDN) 2012 European Workshop on, pp. 103-108 Oct. 
+[128] X.N. Nguyen, "Software defined networking in wireless mesh network," August 2012. 
+[129] NOTLISTED, "Cisco visual networking index: Global mobile data traffic forecast update," Technical report Cisco, pp. 2011-2016 February 2012. 
+[130] B. Rais M. Mendonca T. Turletti K. Obraczka, "Towards truly heterogeneous internets: Bridging infrastructure-based and infrastructure-less networks," 2011 3rd Int. Conf. Commun. Syst. and Netw. (COMSNETS), pp. 1-10 2011. 
+[131] A. Coyle H. Nguyen, "A frequency control algorithm for a mobile adhoc network," Military Commun. and Information Syst. Conf. (MilCIS), November 2010. 
+[132] P. Dely A. Kassler N. Bayer, "Openflow for wireless mesh networks," Proc. 20th Int. Conf. on Computer Commun. and Netw. (ICCCN), pp. 1-6 2011. 

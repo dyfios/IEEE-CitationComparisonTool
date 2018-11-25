@@ -51,19 +51,22 @@ namespace CitationParser
                     }
                     else
                     {
-                        if (firstCitation.title == secondCitation.title && firstCitation.title != null)
+                        if (firstCitation.title == secondCitation.title && firstCitation.title != null
+                            && firstCitation.title != "NOTLISTED")
                         {
                             Console.WriteLine("Found a title match:\n" + firstCitation.rawCitation
                                 + "\n" + secondCitation.rawCitation + "\n");
                         }
 
-                        if (firstCitation.authors == secondCitation.authors && firstCitation.authors != null)
+                        if (firstCitation.authors == secondCitation.authors && firstCitation.authors != null
+                            && firstCitation.authors != "NOTLISTED")
                         {
                             Console.WriteLine("Found an authors match:\n" + firstCitation.rawCitation
                                 + "\n" + secondCitation.rawCitation + "\n");
                         }
 
-                        if (firstCitation.publication == secondCitation.publication && firstCitation.publication != null)
+                        if (firstCitation.publication == secondCitation.publication
+                            && firstCitation.publication != null && firstCitation.publication != "NOTLISTED")
                         {
                             Console.WriteLine("Found a publication match:\n" + firstCitation.rawCitation
                                 + "\n" + secondCitation.rawCitation + "\n");
